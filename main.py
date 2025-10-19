@@ -52,5 +52,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-    #python main.py --files data\products1.csv data\products2.csv --report average-rating
